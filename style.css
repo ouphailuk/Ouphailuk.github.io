@@ -1,0 +1,155 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+.all{
+    height: auto;
+    width: auto;
+    margin: auto;
+}
+
+
+body{
+    
+    background-image: url(images/12251.jpg);
+    display: inline-block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.nev{
+    background-color: rgba(255, 215, 0, 0.24);
+     border: 1px solid black;
+}
+
+.logo .port{
+    
+    font-size: 40px;
+    color: black;
+    overflow: hidden;
+    display: inline-block;    
+    text-transform: uppercase;
+    font-family: 'Raleway', sans-serif;
+}
+
+button {
+    
+    border: 1px solid black;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    border-radius: 3px;
+    border: none;
+    color: gold;
+    text-align: center;
+    font-size: 15px;
+    padding: 15px;
+    width: 120px;
+    color: black;
+}
+.logo .en{
+    margin: 100px;
+    
+}
+.content{
+    border: 1px solid black;
+    display: inline-block;
+    text-align: center;
+}
+
+.content .text{
+    
+    
+    border: 1px solid rgb(255, 177, 0);
+    background-image: url(images/2.JPG);
+    background-position: center;
+    background-size: cover;
+    text-shadow: 30px 3px 10px;
+    border-radius: 30px;
+    margin: 50px;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    padding: 20px;
+    width: 500px;
+    height: 300px;
+    text-align: center;
+}
+.content .text h1{
+    color: gold;
+}
+.content .text1{
+    display: inline-block;
+    border: 1px solid rgb(255, 177, 0);
+    background-color: rgba(255, 177, 0, 0.27);
+    border-radius: 30px;
+    margin: 50px;
+    font-family: 'Raleway', sans-serif;
+    color: black;
+    padding: 20px;
+    width: 900px;
+    
+}
+.fb{
+    
+    font-size: 50px;
+    color: #2e2efc;
+}
+.gallery {
+    text-align: center;
+}
+.gallery h1{
+    display: inline-block;
+    border: 1px solid rgb(255, 177, 0);
+    background-color: rgba(255, 177, 0, 0.31);
+    margin: 30px;
+    border-radius: 30px;
+    width: 300px;
+    text-align: center;
+    
+    font-family: 'Play', sans-serif;
+}
+.gallery .pic img{
+    display: inline-block;
+    border: 1px solid rgb(255, 177, 0);
+    background-color: rgba(255, 177, 0, 0.33);
+    padding: 30px;
+    border-radius: 40px;
+    
+}
+.foot{
+    border: 1px solid black;
+    background-image: url(images/foot.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.foot h1{
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+.foot .contact{
+    line-height: 10px;
+    display: inline-block;
+        
+}
+.contact .f{
+    font-size: 50px;
+    overflow: hidden;
+    display: inline-block;
+    color: blue;
+}.contact .w{
+    font-size: 50px;
+    overflow: hidden;
+    display: inline-block;
+    color: rgb(47, 255, 71);
+}.contact .e{
+    font-size: 50px;
+    overflow: hidden;
+    display: inline-block;
+    color: red;
+}
+
